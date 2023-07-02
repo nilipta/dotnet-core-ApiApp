@@ -1,0 +1,12 @@
+{
+  "dotnet.defaultSolution": "ApiApp.sln",
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "dotnet-core-sqlite",
+      "database": "D:\\downloads\\git\\dotnet-ang\\TheMarketPlace\\API\\themarketplace.db"
+    }
+  ]
+}
